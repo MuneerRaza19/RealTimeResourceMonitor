@@ -4,7 +4,7 @@
 
 Resource Monitor GUI is a simple Python application built with Tkinter that provides real-time monitoring of CPU usage, memory usage, and disk usage. Additionally, it includes a feature to delete temporary files from the system's temporary directory.
 
-![Resource Monitor GUI Screenshot](https://ibb.co/Cv5mqXp))
+(https://ibb.co/Cv5mqXp)
 
 **Features:**
 

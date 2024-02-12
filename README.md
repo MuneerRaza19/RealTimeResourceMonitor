@@ -25,8 +25,7 @@ Resource Monitor GUI is a simple Python application built with Tkinter that prov
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/<MuneerRaza19>/RealTimeResourceMonitor.git](https://github.com/MuneerRaza19/RealTimeResourceMonitor.git#main
-)
+    git clone https://github.com/<MuneerRaza19>/RealTimeResourceMonitor.git)
     ```
 
 2. Run the application:
@@ -39,13 +38,11 @@ Resource Monitor GUI is a simple Python application built with Tkinter that prov
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-**License:**
 
-This project is licensed under the [MIT License](LICENSE).
 
 **Author:**
 
-[Your Name] ([Your GitHub Profile](https://github.com/<your-username>))
+Muneer-Raza 
 
 **Acknowledgments:**
 

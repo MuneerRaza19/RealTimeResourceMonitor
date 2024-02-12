@@ -25,14 +25,14 @@ Resource Monitor GUI is a simple Python application built with Tkinter that prov
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<your-username>/resource-monitor-gui.git
-    cd resource-monitor-gui
+    git clone [https://github.com/<MuneerRaza19>/RealTimeResourceMonitor.git](https://github.com/MuneerRaza19/RealTimeResourceMonitor.git#main
+)
     ```
 
 2. Run the application:
 
     ```bash
-    python resource_monitor_gui.py
+    python script.py
     ```
 
 **Contributing:**
@@ -50,4 +50,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Acknowledgments:**
 
 - The application uses the `psutil` library for resource monitoring.
-- [OpenAI GPT](https://github.com/openai/gpt-3.5-turbo) for providing assistance in generating descriptions.
